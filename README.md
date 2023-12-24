@@ -1,2 +1,2 @@
-# Spotify
-Spotify HTML/CSS
+# Spotify Website
+HTML/CSS
